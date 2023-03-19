@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Code Refactor",
+    "deployedLink": "https://reaganrodriguez.github.io/WeekOneSubmit/",
+    "githubLink": "https://github.com/reaganrodriguez/WeekOneSubmit.git",
+    "imageUrl": "../img/project6.jpg",
+    "description": "Challenge involves a very important aspect of web development: accessibility  ",
+    "techStack": ["React", "Node.js", "Express"]
+  },
+  {
+    "id": 2,
+    "title": "Project CSS",
+    "deployedLink": "https://reaganrodriguez.github.io/week2project/",
+    "githubLink": "https://github.com/reaganrodriguez/week2project.git",
+    "imageUrl": "../img/project2.jpg",
+    "description": "flexbox, media queries, and CSS variables",
+    "techStack": ["React", "Redux", "MongoDB"]
+  },
+  {
+    "id": 3,
+    "title": "UX and Advanced CSS: Bootstrap Portfolio",
+    "deployedLink": "https://reaganrodriguez.github.io/newbs/",
+    "githubLink": "https://github.com/reaganrodriguez/newbs.git",
+    "imageUrl": "../img/project3.jpg",
+    "description": "This is a description of Project 3.UX and Advanced CSS: Bootstrap Portfolio",
+    "techStack": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 4,
+    "title": "Financial records of a company.",
+    "deployedLink": "https://reaganrodriguez.github.io/financialanalysis/",
+    "githubLink": "https://github.com/reaganrodriguez/financialanalysis.git",
+    "imageUrl": "../img/project4.jpg",
+    "description": "This is a description of Project 4.Creating code for analyzing the financial records of a company. ",
+    "techStack": ["React", "Next.js", "Firebase"]
+  },
+  {
+    "id": 5,
+    "title": "Password Generator",
+    "deployedLink": "https://reaganrodriguez.github.io/passwordgenerator/",
+    "githubLink": "https://github.com/reaganrodriguez/passwordgenerator.git",
+    "imageUrl": "../img/project5.jpg",
+    "description": "Features dynamically updated HTML and CSS, all powered by JavaScript code that you will write.This is a description of Project 5.",
+    "techStack": ["React", "Node.js", "GraphQL"]
+  },
+  {
+    "id": 6,
+    "title": "Working with Web APIs: Code Quiz",
+    "deployedLink": "https://reaganrodriguez.github.io/quiz/",
+    "githubLink": "https://github.com/reaganrodriguez/quiz.git",
+    "imageUrl": "../img/project1.jpg",
+    "description": "This is a description of Project 6.Working with Web APIs: Code Quiz",
+    "techStack": ["React", "Firebase", "Auth0"]
+  }
+]
